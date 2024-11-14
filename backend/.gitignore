@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables (make sure not to expose sensitive data)
+.env
+
+# Logs
+logs/
+*.log
+
+# Debugging and IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm cache
+.npm/
+
+# Build directories
+dist/
+build/
+
+# Coverage reports (if using testing tools like Jest)
+coverage/
+
+# Temporary files
+*.tmp
